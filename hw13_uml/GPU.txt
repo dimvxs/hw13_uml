@@ -1,0 +1,4 @@
+Producer: NVIDIA
+Model: GeForce RTX 3080
+Core clock: 1440.000000
+Core count: -842150451

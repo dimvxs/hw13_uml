@@ -1,0 +1,4 @@
+Producer: Corsair
+Type: DDR4
+Frequency: -842150451
+Capacity: 16
